@@ -1,0 +1,64 @@
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\App.g.cs
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\MainPage.g.cs
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\Facts.g.resources
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\Facts.Resources.BaseLineDB.resources
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\Facts.csproj.GenerateResource.Cache
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Assets\ApplicationIcon.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Assets\Tiles\IconicTileSmall.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Facts.dll
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Facts.pdb
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\Facts.dll
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\Facts.pdb
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\AppManifest.xaml
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Properties\WMAppManifest.xml
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Release\Facts_Release_AnyCPU.xap
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Release\XapCacheFile.xml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Facts.dll
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Facts.pdb
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\App.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\MainPage.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\Facts.g.resources
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\Facts.Resources.BaseLineDB.resources
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\Facts.csproj.GenerateResource.Cache
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\Facts.dll
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\Facts.pdb
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\AppManifest.xaml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Release\Facts_Release_AnyCPU.xap
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\XapCacheFile.xml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\SettingsPage.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\ListPage.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Release\AboutPage.g.cs
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Assets\ApplicationIcon.png
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Assets\Tiles\IconicTileSmall.png
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Facts.dll
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Facts.pdb
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\AppManifest.xaml
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Properties\WMAppManifest.xml
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\Facts_Release_AnyCPU.xap
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\Bin\Release\AdDuplex.WindowsPhone.dll
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\App.g.cs
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\AboutPage.g.cs
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\ListPage.g.cs
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\MainPage.g.cs
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\SettingsPage.g.cs
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\Facts.g.resources
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\Facts.Resources.BaseLineDB.resources
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\Facts.csproj.GenerateResource.Cache
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\Facts.dll
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\Facts.pdb
+C:\Users\Artem Shishkin\Desktop\И это факт\Facts 1.0.2.0\Facts\obj\Release\XapCacheFile.xml

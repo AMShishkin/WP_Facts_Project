@@ -1,0 +1,42 @@
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Facts.dll
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Facts.pdb
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\AppManifest.xaml
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\Bin\Debug\Facts_Debug_AnyCPU.xap
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\App.g.cs
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\MainPage.g.cs
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\Facts.g.resources
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\Facts.Resources.AppResources.resources
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\Facts.csproj.GenerateResource.Cache
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\Facts.dll
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\Facts.pdb
+c:\users\artem shishkin\documents\visual studio 2013\Projects\Facts\Facts\obj\Debug\XapCacheFile.xml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\App.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\MainPage.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\Facts.g.resources
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\Facts.Resources.BaseLineDB.resources
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\Facts.csproj.GenerateResource.Cache
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\Facts.dll
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Facts.dll
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Facts.pdb
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\AppManifest.xaml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Facts_Debug_AnyCPU.xap
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\Facts.pdb
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\XapCacheFile.xml
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\AboutApp.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\ListPage.g.cs
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Artem Shishkin\Desktop\Facts\Facts\obj\Debug\SettingsPage.g.cs

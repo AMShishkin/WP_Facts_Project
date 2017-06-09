@@ -1,0 +1,97 @@
+﻿<phone:PhoneApplicationPage
+    x:Class="Facts.AboutPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d">
+
+
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar x:Name="AppBar" IsVisible="True" IsMenuEnabled="True" Mode="Minimized" Opacity="1" BackgroundColor="Black" ForegroundColor="White">
+            <shell:ApplicationBarIconButton x:Name="AppShow" IconUri="/Assets/appbar.marketplace.png" Text="от автора" Click="AppShow_Click"/>
+            <shell:ApplicationBarIconButton x:Name="AppRate" IconUri="/Assets/appbar.star.png" Text="оценить" Click="AppRate_Click"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+
+
+    <Grid x:Name="LayoutRoot" Background="Transparent" Margin="0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="800"/>
+        </Grid.RowDefinitions>
+
+        <Rectangle Margin="0" Opacity="0.12">
+            <Rectangle.Fill>
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/chernyy_fon_uzory_svet_tekstura_55291_1080x1920.jpg"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <TextBlock x:Name="TBLogo" HorizontalAlignment="Left" Height="38" Margin="7,-5,0,0" Text="И ЭТО" VerticalAlignment="Top" Width="55" Foreground="#FFB94040" FontSize="48" FontFamily="/Facts;component/Fonts/Fonts.zip#High Sans Serif 7" CacheMode="BitmapCache"/>
+
+        <ProgressBar x:Name="PBarLeft" Height="6" Margin="50,23,228,0" VerticalAlignment="Top" Background="#1AFFFFFF" Foreground="White" Value="91" Maximum="100"/>
+        <ProgressBar x:Name="PBarRight" Height="6" Margin="228,23,50,0" VerticalAlignment="Top" Background="#1AFFFFFF" Foreground="White" Value="91" Maximum="100" RenderTransformOrigin="0.5,0.5">
+            <ProgressBar.RenderTransform>
+                <CompositeTransform ScaleX="-1"/>
+            </ProgressBar.RenderTransform>
+        </ProgressBar>
+
+        <TextBlock Margin="0,-4,50,0" TextWrapping="Wrap" Text="О ПРИЛОЖЕНИИ" VerticalAlignment="Top" FontFamily="/Facts;component/Fonts/Fonts.zip#High Sans Serif 7" Foreground="White" Height="31" FontSize="38" HorizontalAlignment="Right" Width="106"/>
+
+        <TextBlock Margin="65,-4,0,0" TextWrapping="Wrap" Text="ФАКТ" VerticalAlignment="Top" FontFamily="/Facts;component/Fonts/Fonts.zip#High Sans Serif 7" Foreground="White" Height="31" FontSize="38" HorizontalAlignment="Left" Width="45"/>
+
+        <Rectangle Height="25" Margin="225,1,225,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" StrokeThickness="0" Width="32" HorizontalAlignment="Center">
+            <Rectangle.Fill>
+                <ImageBrush Stretch="Fill" ImageSource="/Assets/3.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+
+        <TextBlock x:Name="TBNumber" Height="38" Margin="0,-5,7,0" Text="!?   " VerticalAlignment="Top" Foreground="#FFB94040" FontSize="48" FontFamily="/Facts;component/Fonts/Fonts.zip#High Sans Serif 7" CacheMode="BitmapCache" HorizontalAlignment="Right" Width="55" TextAlignment="Right"/>
+
+        <TextBlock x:Name="TBAuthor" Margin="5,0,5,40" TextWrapping="Wrap" Height="54" VerticalAlignment="Bottom" FontFamily="Arial Black" TextAlignment="Right">
+        	<Run Text="АВТОР : AMS"/>
+        	<LineBreak/>
+        	<Run Text="ВОРОНЕЖ 2016"/>
+        </TextBlock>
+
+
+        <TextBlock Margin="5,51,5,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="527" FontFamily="Arial Black" TextAlignment="Center">
+        	
+        	<Run Foreground="White" FontFamily="Arial Black" Text="Если вам понравилось данное приложение и Вы желаете помочь мне быстрее добавить"/>
+        	<Run Foreground="White" FontFamily="Arial Black" Text="еще больше интересных фактов,"/>
+        	<Run Foreground="White" FontFamily="Arial Black" Text="а также улучшить программу, оцените приложение на 5 звезд и оставьте положительный отзыв."/>
+        	<LineBreak/>
+        	<Run Foreground="White" FontFamily="Arial Black"/>
+        	<LineBreak/>
+        	<Run Foreground="White" FontFamily="Arial Black" Text="P.S."/>
+        	<LineBreak/>
+        	<Run Foreground="White" FontFamily="Arial Black" Text="А пока я добавляю новые"/>
+        	<Run Foreground="White" FontFamily="Arial Black" Text="факты,"/>
+        	<Run Foreground="White" FontFamily="Arial Black" Text="Вы можете скачать остальные мои приложения и игры"/>
+        	<LineBreak/>
+        	<Run Foreground="White" FontFamily="Arial Black"/>
+        	<LineBreak/>
+        	<Run Foreground="White" FontFamily="Arial Black" Text="( ... -&gt; от автора )"/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run/>
+        	<LineBreak/>
+        	<Run Text="ВЕРСИЯ : 1.0.0" FontSize="30"/>
+        </TextBlock>
+        <HyperlinkButton x:Name="ButNews" Content="ЧТО НОВОГО" Height="39" Margin="5,0,5,180" VerticalAlignment="Bottom" Click="ButNews_Click" Foreground="White" FontFamily="Arial Black" FontSize="24"/>
+
+
+
+    </Grid>
+
+</phone:PhoneApplicationPage>
